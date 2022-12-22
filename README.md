@@ -3,4 +3,4 @@ Hello, everyone. I am a Python enthusiast and this is where I will share my proj
 _________________________________________________________________________________________________________________________________________________________________________
 Languages and Tools:
 
-![python_logo](https://user-images.githubusercontent.com/118696796/209000366-2fe5df9e-cd18-4281-97b4-7a4dc0f1831c.jpg)
+![python_logo](https://user-images.githubusercontent.com/118696796/209222185-421fc4e1-679e-431d-bfae-f223655ae051.jpg)
