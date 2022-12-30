@@ -1,4 +1,4 @@
-Rock, paper, scissors 
+# Rock, paper, scissors :rock: :scissors: :page_facing_up:
 _________________________________________________________________________________________________________________________________________________________________________
   Rock, paper, scissors is a hand game originating from China, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. 
 
