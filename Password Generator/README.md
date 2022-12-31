@@ -1,19 +1,18 @@
-PASSWORD GENERATOR
-_________________________________________________________________________________________________________________________________________________________________________
-Instructions
+# :lock: PASSWORD GENERATOR
 
-The program will ask:
+ 📝 Instructions
 
-How many letters would you like in your password?
+ :question: The program will ask:
 
-How many symbols would you like?
+:heavy_minus_sign: How many letters would you like in your password?
 
-How many numbers would you like?
-_________________________________________________________________________________________________________________________________________________________________________
-The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge.
-_________________________________________________________________________________________________________________________________________________________________________
+:heavy_minus_sign: How many symbols would you like?
+
+:heavy_minus_sign: How many numbers would you like?
+
+ The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge.
+
 Example:
-
-SCREENSHOT 
+ :desktop_computer: SCREENSHOT 
 
 ![password_generator_img](https://user-images.githubusercontent.com/118696796/206564949-df769a17-770c-45dd-8412-48eb013c2ba0.png)
