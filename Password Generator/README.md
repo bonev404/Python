@@ -4,11 +4,11 @@
 
 # :question: The program will ask:
 
-:heavy_minus_sign: How many letters would you like in your password?
+# :heavy_minus_sign: How many letters would you like in your password?
 
-:heavy_minus_sign: How many symbols would you like?
+# :heavy_minus_sign: How many symbols would you like?
 
-:heavy_minus_sign: How many numbers would you like?
+# :heavy_minus_sign: How many numbers would you like?
 
 # The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge.
 
