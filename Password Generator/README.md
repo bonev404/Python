@@ -1,6 +1,6 @@
 # :lock: PASSWORD GENERATOR
 
- 📝 Instructions
+# 📝 Instructions
 
  :question: The program will ask:
 
