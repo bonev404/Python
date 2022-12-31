@@ -10,7 +10,7 @@
 
 :heavy_minus_sign: How many numbers would you like?
 
- The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge.
+# The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge.
 
 Example:
  :desktop_computer: SCREENSHOT 
