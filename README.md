@@ -5,5 +5,4 @@
 # 👨‍💻 Here I will share my projects.
 
 # :computer: Languages and Tools:
-
-![python_logo](https://user-images.githubusercontent.com/118696796/209222185-421fc4e1-679e-431d-bfae-f223655ae051.jpg)
+![Python-Symbol](https://user-images.githubusercontent.com/118696796/211559605-9ec71859-eada-4f47-b67a-8d4e6f823d14.png)
