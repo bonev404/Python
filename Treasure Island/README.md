@@ -1,6 +1,6 @@
 # :crown: Treasure Island
 
-# :pencil: Treasure Island is a "Choose Your Own Adventure" game. It uses conditionals such as if, else, and elif statements to lay out the logic and the story's path.
+## :pencil: Treasure Island is a "Choose Your Own Adventure" game. It uses conditionals such as if, else, and elif statements to lay out the logic and the story's path.
 
 # :symbols: Use Ascii Art.
 
