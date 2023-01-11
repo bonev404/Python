@@ -4,5 +4,5 @@
 
 ## :symbols: Use Ascii Art.
 
-# :desktop_computer: SCREENSHOT
+## :desktop_computer: Screenshot
 ![treasure_island_otput](https://user-images.githubusercontent.com/118696796/205349985-e788d017-8476-41c3-9a7c-46a556ac8684.png)
