@@ -10,7 +10,7 @@
 
 # :heavy_minus_sign: How many symbols would you like?
 
-# :heavy_minus_sign: How many numbers would you like?
+## :heavy_minus_sign: How many numbers would you like?
 
 # :desktop_computer: SCREENSHOT 
 
