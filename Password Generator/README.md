@@ -12,6 +12,6 @@
 
 ## :heavy_minus_sign: How many numbers would you like?
 
-# :desktop_computer: Screenshot 👇 👇 👇
+## :desktop_computer: Screenshot 👇 👇 👇
 
 ![password_generator_img](https://user-images.githubusercontent.com/118696796/206564949-df769a17-770c-45dd-8412-48eb013c2ba0.png)
