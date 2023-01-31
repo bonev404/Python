@@ -4,7 +4,7 @@
 
 ## 📝 Instructions:
 
-## :question: The program will ask:
+# :question: The program will ask:
 
 ## :heavy_minus_sign: How many letters would you like in your password?
 
