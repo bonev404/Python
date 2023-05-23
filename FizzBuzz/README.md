@@ -8,4 +8,4 @@
 
 ## 🖥️ Screenshot :point_down: :point_down:	:point_down:	
 
-![fizzbuzz](https://user-images.githubusercontent.com/118696796/208251502-25302225-4736-4d5d-a634-f3e5e8c22a4b.png)
+![fizzbuzz](https://user-images.githubusercontent.com/118696796/208251502-25302225-4736-4d5d-a634-f3e5e8c22a4b.png) 
